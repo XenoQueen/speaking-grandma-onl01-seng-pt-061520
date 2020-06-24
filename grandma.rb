@@ -1,2 +1,3 @@
 def speak_to_grandma(string)
-  if string
+  if string != string.upcase
+    
