@@ -1,2 +1,2 @@
-def speak_to_grandma(phrase)
-  
+def speak_to_grandma(string)
+  if string
